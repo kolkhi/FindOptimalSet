@@ -1,5 +1,7 @@
 # FindOptimalSet
 
+Finds subset of uint64 numbers from the input vector, with the largest sum less or equal to the input number
+
 Before build, please update path to the BOOST folder in CMakeLists.txt
  
 Usage:
